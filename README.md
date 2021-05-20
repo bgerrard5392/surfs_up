@@ -3,7 +3,7 @@ Cowabunga dude! This is my repository for analyzing weather data in Hawaii
 
 
 ## Project Overview
-In this module I conducted an analysis of weather data for a surf & ice cream shop named 
+In this module I conducted an analysis of weather data for a surf & ice cream shop called "Surf n' Shake". The purpose of this project is to run analytics on weather temperatures in June and December to determine whether Surf n' Shake will have good weather conditions to operate in Oahu.
 
 For my analysis I used a variety of tools to perform advaned data storage and retrieval actions, including: 
 
