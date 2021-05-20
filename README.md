@@ -1,10 +1,18 @@
 # Module 8 Challenge: SurfsUp Analysis
-cowabunga dude! This is my repository for analyzing weather data in Hawaii
+Cowabunga dude! This is my repository for analyzing weather data in Hawaii
 
 
 ## Project Overview
-In this module I created a function to take in files from three different sources (Wikipedia data, Kaggle metadata, and MovieLens rating data) and performed an ETL process to create a data pipeline.
+In this module I conducted an analysis of weather data for a surf & ice cream shop named 
 
+For my analysis I used a variety of tools to perform advaned data storage and retrieval actions, including: 
+
+ - Flask - a web framework that uses Python to build web pages 
+ - SQL lite -  
+ - SQL Alchemy - a query tool for performing integration of statistical analysis with dataframe analysis
+
+
+In this module I created a function to take in files from three different sources (Wikipedia data, Kaggle metadata, and MovieLens rating data) and performed an ETL process to create a data pipeline.
 
 
 
