@@ -18,9 +18,10 @@ In this module I created a function to take in files from three different source
 
 ## Results
 Below is a summary of June's tempature statistics
-
+![June_Temps](https://user-images.githubusercontent.com/75700317/118911505-4723ed80-b8f4-11eb-9ecd-077062801702.png)
 
 Below is a summaryt of December's temperature statistics
+![December_Temps](https://user-images.githubusercontent.com/75700317/118911439-2fe50000-b8f4-11eb-87cc-75478ceeac53.png)
 
 
 
