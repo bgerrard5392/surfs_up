@@ -8,7 +8,7 @@ In this module I conducted an analysis of weather data for a surf & ice cream sh
 For my analysis I used a variety of tools to perform advaned data storage and retrieval actions, including: 
 
  - Flask - a web framework that uses Python to build web pages 
- - SQL lite -  
+ - SQLite -  a database engine embedded into the end program 
  - SQL Alchemy - a query tool for performing integration of statistical analysis with dataframe analysis
 
 
