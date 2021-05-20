@@ -12,10 +12,6 @@ For my analysis I used a variety of tools to perform advaned data storage and re
  - SQL Alchemy - a query tool for performing integration of statistical analysis with dataframe analysis
 
 
-In this module I created a function to take in files from three different sources (Wikipedia data, Kaggle metadata, and MovieLens rating data) and performed an ETL process to create a data pipeline.
-
-
-
 ## Results
 Below is a summary of June's tempature statistics
 
@@ -30,3 +26,7 @@ Below is a summary of December's temperature statistics
 
 ## Summary
 In summary, the weather in December and June exhibit similar behavior - the high points in December are relatively close to the weather experienced in June but the low points are significantly lower in December. 
+
+## Additional Queries 
+One addition query I would run would include the difference in precipitation between June and December. I would be very interested to see how the precipitation highs and lows track against the highs and lows of rain, is there any difference? Could this help better determine when the Surf n' Shake shop should run? That analysis would provide a "tidal wave" of insights :)
+
