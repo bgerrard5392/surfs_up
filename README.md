@@ -25,7 +25,7 @@ Below is a summary of December's temperature statistics
 
 
 ## Summary
-In summary, the weather in December and June exhibit similar behavior - the high points in December are relatively close to the weather experienced in June but the low points are significantly lower in December. 
+The average temperatures between December and June differ by only 4 degrees (75 degrees in June and 71 in December). There is very little fluctuation between the two which leads me to believe that both months are safe to run the shop. In summary, the weather in December and June exhibit similar behavior - the high points in December are relatively close to the weather experienced in June but the low points are significantly lower in December. 
 
 ## Additional Queries 
 One addition query I would run would include the difference in precipitation between June and December. I would be very interested to see how the precipitation highs and lows track against the highs and lows of rain, is there any difference? Could this help better determine when the Surf n' Shake shop should run? That analysis would provide a "tidal wave" of insights :)
